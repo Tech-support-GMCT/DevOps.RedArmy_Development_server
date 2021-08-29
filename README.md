@@ -1,10 +1,7 @@
-# DevOps.Onboarding_template
-Template for onboarding 
-
 ## [Onboarding programm for RedArmy development server]
 "Учимся вместе" или collaborative learning
 
-Первые шаги:
+### Первые шаги:
 1. запрос на регистрацию с рабочей почты* на почту технической поддержки организации;
 2. самостоятельная регистрация на [GitHub](http://github.com) с индивидуальной почты (__gmail, zoho или yandex__)**;
 3. самостоятельная настройка доступа к github и серверу redarmy по ssh ключам;
