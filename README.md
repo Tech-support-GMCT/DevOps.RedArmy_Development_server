@@ -13,11 +13,13 @@
 [2] - не используйте сервисы yahoo.com, mail.ru, rambler.ru или домашних провайдеров.
 
 ### Орудия труда
-- Win10 + WSL2 (Ubuntu)
-- VSCode
-- ssh
-- Docker
-- Chrome
+- Win10 + WSL2 (Ubuntu) (https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- git + github
+- VSCode (https://code.visualstudio.com/)
+- ssh (https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)
+- Docker + dockerhub (https://docs.docker.com/get-docker/)
+- Chrome (https://www.google.com/chrome/)
+- Slack (из приглашения)
 
 
 ### FAQ
