@@ -17,6 +17,7 @@
 - VSCode
 - ssh
 - Docker
+- Chrome
 
 
 ### FAQ
