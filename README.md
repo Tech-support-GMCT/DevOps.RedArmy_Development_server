@@ -1,5 +1,4 @@
 ## [Onboarding programm for RedArmy development server]
-"Учимся вместе" или collaborative learning
 
 ### Первые шаги:
 1. запрос на регистрацию с рабочей почты[1] на почту технической поддержки организации;
