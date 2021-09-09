@@ -17,7 +17,7 @@
 - VSCode (https://code.visualstudio.com/);
 - ssh (https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2);
 - Docker + dockerhub (https://docs.docker.com/get-docker/);
-- для Python разработчиков. Используйте виртуальную среду [Pipenv] (https://pipenv.pypa.io/en/latest/);
+- для Python разработчиков. Используйте виртуальную среду Pipenv (https://pipenv.pypa.io/en/latest/);
 - Chrome (https://www.google.com/chrome/);
 - Slack (из приглашения).
 
